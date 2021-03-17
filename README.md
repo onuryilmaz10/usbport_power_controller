@@ -7,4 +7,4 @@ Contact mail: onr.yilmaz10@gmail.com
 
 # Connection 
 Detect CH340 in ComPorts list.
-Baud Rate is 9600. After serial communication setup, connects if you send "C" (connect), disconnects if you send "D" (disconne
+Baud Rate is 9600. After serial communication setup, connects if you send "C" (connect), disconnects if you send "D" (disconnect).
