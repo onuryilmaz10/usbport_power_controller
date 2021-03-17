@@ -2,7 +2,7 @@
 An arduino based product UPC allows you to manage the connection of your computer between usb powered device. You can control it remotely with serial communication software running on your system. 
 Designed by Onur Yilmaz and Yusuf Arabaci. 
 
-Contact mail : onr.yilmaz10@gmail.com
+Contact mail: onr.yilmaz10@gmail.com
 
 
 # Connection 
